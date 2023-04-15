@@ -36,3 +36,4 @@ Open terminal inside GameJam folder
   ```
   
 # Enjoy!
+##Nice
