@@ -13,7 +13,7 @@ Open terminal inside GameJam folder
 
 ## 3
 
-  ```git
+  ```console
   git init .
   ```
   
