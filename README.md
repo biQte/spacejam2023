@@ -19,14 +19,20 @@ Open terminal inside GameJam folder
   
 ## 4
 
+  ```console
   git remote add origin https://github.com/biQte/spacejam2023.git
+  ```
   
 ## 5
 
+  ```console
   git branch -M main
+  ```
   
 ## 6
 
+  ```console
   git pull https://github.com/biQte/spacejam2023 main
+  ```
   
 # Enjoy!
