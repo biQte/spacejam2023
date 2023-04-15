@@ -34,9 +34,6 @@ Open terminal inside GameJam folder
   ```console
   git pull https://github.com/biQte/spacejam2023 main
   ```
-
-## 7
-
-Forget everything written above, use [Github Desktop](https://desktop.github.com)
   
 # Enjoy!
+##Nice
