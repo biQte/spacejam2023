@@ -30,6 +30,6 @@ public class menu : MonoBehaviour
         LoadingScreen.SetActive(true);
         StartScreen.SetActive(false);
         yield return new WaitForSeconds(3);
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("level1");
     }
 }
