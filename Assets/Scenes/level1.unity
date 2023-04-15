@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 4827965}
   - component: {fileID: 4827964}
   m_Layer: 0
-  m_Name: image (17)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 5803072}
   - component: {fileID: 5803071}
   m_Layer: 0
-  m_Name: image
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -317,7 +317,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &15268835
 GameObject:
@@ -330,7 +330,7 @@ GameObject:
   - component: {fileID: 15268837}
   - component: {fileID: 15268836}
   m_Layer: 0
-  m_Name: imaasdcge (22)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -415,7 +415,7 @@ GameObject:
   - component: {fileID: 28318119}
   - component: {fileID: 28318118}
   m_Layer: 0
-  m_Name: image (11)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -513,7 +513,7 @@ GameObject:
   - component: {fileID: 50404088}
   - component: {fileID: 50404087}
   m_Layer: 0
-  m_Name: image (21)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -611,7 +611,7 @@ GameObject:
   - component: {fileID: 115743752}
   - component: {fileID: 115743751}
   m_Layer: 0
-  m_Name: image (10)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -708,7 +708,7 @@ GameObject:
   - component: {fileID: 116605404}
   - component: {fileID: 116605403}
   m_Layer: 0
-  m_Name: imaasdcge (31)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 127123953}
   - component: {fileID: 127123952}
   m_Layer: 0
-  m_Name: image (30)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -890,7 +890,7 @@ GameObject:
   - component: {fileID: 161198950}
   - component: {fileID: 161198949}
   m_Layer: 0
-  m_Name: imaasdcge (29)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -974,7 +974,7 @@ GameObject:
   - component: {fileID: 169779675}
   - component: {fileID: 169779674}
   m_Layer: 0
-  m_Name: imaasdcge (2)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1059,7 +1059,7 @@ GameObject:
   - component: {fileID: 171771687}
   - component: {fileID: 171771686}
   m_Layer: 0
-  m_Name: image (4)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1157,7 +1157,7 @@ GameObject:
   - component: {fileID: 185910791}
   - component: {fileID: 185910790}
   m_Layer: 0
-  m_Name: image (18)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1255,7 +1255,7 @@ GameObject:
   - component: {fileID: 188461771}
   - component: {fileID: 188461770}
   m_Layer: 0
-  m_Name: image (28)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1353,7 +1353,7 @@ GameObject:
   - component: {fileID: 221545433}
   - component: {fileID: 221545432}
   m_Layer: 0
-  m_Name: image (3)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1451,7 +1451,7 @@ GameObject:
   - component: {fileID: 250074640}
   - component: {fileID: 250074639}
   m_Layer: 0
-  m_Name: image (6)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1548,7 +1548,7 @@ GameObject:
   - component: {fileID: 302317497}
   - component: {fileID: 302317496}
   m_Layer: 0
-  m_Name: imaasdcge (3)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1633,7 +1633,7 @@ GameObject:
   - component: {fileID: 312540339}
   - component: {fileID: 312540338}
   m_Layer: 0
-  m_Name: image (23)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1731,7 +1731,7 @@ GameObject:
   - component: {fileID: 339612863}
   - component: {fileID: 339612862}
   m_Layer: 0
-  m_Name: image (15)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1829,7 +1829,7 @@ GameObject:
   - component: {fileID: 359696529}
   - component: {fileID: 359696528}
   m_Layer: 0
-  m_Name: image (16)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1926,7 +1926,7 @@ GameObject:
   - component: {fileID: 440000931}
   - component: {fileID: 440000930}
   m_Layer: 0
-  m_Name: imaasdcge (13)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2012,7 +2012,7 @@ GameObject:
   - component: {fileID: 486629563}
   - component: {fileID: 486629562}
   m_Layer: 0
-  m_Name: imaasdcge
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2109,7 +2109,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &499741445
 GameObject:
@@ -2122,7 +2122,7 @@ GameObject:
   - component: {fileID: 499741447}
   - component: {fileID: 499741446}
   m_Layer: 0
-  m_Name: imaasdcge (11)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2206,7 +2206,7 @@ GameObject:
   - component: {fileID: 537033760}
   - component: {fileID: 537033759}
   m_Layer: 0
-  m_Name: imaasdcge (17)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2290,7 +2290,7 @@ GameObject:
   - component: {fileID: 597489220}
   - component: {fileID: 597489219}
   m_Layer: 0
-  m_Name: imaasdcge (25)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2374,7 +2374,7 @@ GameObject:
   - component: {fileID: 610463975}
   - component: {fileID: 610463974}
   m_Layer: 0
-  m_Name: imaasdcge (15)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2459,7 +2459,7 @@ GameObject:
   - component: {fileID: 621873555}
   - component: {fileID: 621873554}
   m_Layer: 0
-  m_Name: image (27)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2556,7 +2556,7 @@ GameObject:
   - component: {fileID: 637395333}
   - component: {fileID: 637395332}
   m_Layer: 0
-  m_Name: imaasdcge (9)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2640,7 +2640,7 @@ GameObject:
   - component: {fileID: 661529129}
   - component: {fileID: 661529128}
   m_Layer: 0
-  m_Name: imaasdcge (7)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2725,7 +2725,7 @@ GameObject:
   - component: {fileID: 669573927}
   - component: {fileID: 669573926}
   m_Layer: 0
-  m_Name: image (9)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2823,7 +2823,7 @@ GameObject:
   - component: {fileID: 671426911}
   - component: {fileID: 671426910}
   m_Layer: 0
-  m_Name: image (19)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2920,7 +2920,7 @@ GameObject:
   - component: {fileID: 676186946}
   - component: {fileID: 676186945}
   m_Layer: 0
-  m_Name: imaasdcge (1)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2991,7 +2991,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &681506780
 GameObject:
@@ -3088,7 +3088,7 @@ GameObject:
   - component: {fileID: 694716960}
   - component: {fileID: 694716959}
   m_Layer: 0
-  m_Name: imaasdcge (14)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3172,7 +3172,7 @@ GameObject:
   - component: {fileID: 773803005}
   - component: {fileID: 773803004}
   m_Layer: 0
-  m_Name: imaasdcge (12)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3256,7 +3256,7 @@ GameObject:
   - component: {fileID: 804278506}
   - component: {fileID: 804278505}
   m_Layer: 0
-  m_Name: imaasdcge (30)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3341,7 +3341,7 @@ GameObject:
   - component: {fileID: 829577218}
   - component: {fileID: 829577217}
   m_Layer: 0
-  m_Name: image (22)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3438,7 +3438,7 @@ GameObject:
   - component: {fileID: 843045707}
   - component: {fileID: 843045706}
   m_Layer: 0
-  m_Name: imaasdcge (19)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3522,7 +3522,7 @@ GameObject:
   - component: {fileID: 885974207}
   - component: {fileID: 885974206}
   m_Layer: 0
-  m_Name: imaasdcge (23)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3606,7 +3606,7 @@ GameObject:
   - component: {fileID: 922078946}
   - component: {fileID: 922078945}
   m_Layer: 0
-  m_Name: imaasdcge (6)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3691,7 +3691,7 @@ GameObject:
   - component: {fileID: 945285936}
   - component: {fileID: 945285935}
   m_Layer: 0
-  m_Name: image (7)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3789,7 +3789,7 @@ GameObject:
   - component: {fileID: 959164577}
   - component: {fileID: 959164576}
   m_Layer: 0
-  m_Name: image (8)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3887,7 +3887,7 @@ GameObject:
   - component: {fileID: 959958227}
   - component: {fileID: 959958226}
   m_Layer: 0
-  m_Name: image (14)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4056,7 +4056,7 @@ GameObject:
   - component: {fileID: 1014852173}
   - component: {fileID: 1014852172}
   m_Layer: 0
-  m_Name: image (29)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4154,7 +4154,7 @@ GameObject:
   - component: {fileID: 1028875227}
   - component: {fileID: 1028875226}
   m_Layer: 0
-  m_Name: image (2)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4252,7 +4252,7 @@ GameObject:
   - component: {fileID: 1028988724}
   - component: {fileID: 1028988723}
   m_Layer: 0
-  m_Name: image (20)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4350,7 +4350,7 @@ GameObject:
   - component: {fileID: 1070606173}
   - component: {fileID: 1070606172}
   m_Layer: 0
-  m_Name: image (24)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4447,7 +4447,7 @@ GameObject:
   - component: {fileID: 1140994908}
   - component: {fileID: 1140994907}
   m_Layer: 0
-  m_Name: imaasdcge (21)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4531,7 +4531,7 @@ GameObject:
   - component: {fileID: 1152225825}
   - component: {fileID: 1152225824}
   m_Layer: 0
-  m_Name: imaasdcge (4)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4616,7 +4616,7 @@ GameObject:
   - component: {fileID: 1171048372}
   - component: {fileID: 1171048371}
   m_Layer: 0
-  m_Name: image (26)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4713,7 +4713,7 @@ GameObject:
   - component: {fileID: 1190355813}
   - component: {fileID: 1190355812}
   m_Layer: 0
-  m_Name: imaasdcge (28)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4797,7 +4797,7 @@ GameObject:
   - component: {fileID: 1519523832}
   - component: {fileID: 1519523831}
   m_Layer: 0
-  m_Name: imaasdcge (27)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4966,7 +4966,7 @@ GameObject:
   - component: {fileID: 1687512644}
   - component: {fileID: 1687512643}
   m_Layer: 0
-  m_Name: image (1)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5064,7 +5064,7 @@ GameObject:
   - component: {fileID: 1699701327}
   - component: {fileID: 1699701326}
   m_Layer: 0
-  m_Name: image (12)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5161,7 +5161,7 @@ GameObject:
   - component: {fileID: 1749785400}
   - component: {fileID: 1749785399}
   m_Layer: 0
-  m_Name: imaasdcge (16)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5246,7 +5246,7 @@ GameObject:
   - component: {fileID: 1772842335}
   - component: {fileID: 1772842334}
   m_Layer: 0
-  m_Name: image (25)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5344,7 +5344,7 @@ GameObject:
   - component: {fileID: 1853287742}
   - component: {fileID: 1853287741}
   m_Layer: 0
-  m_Name: image (5)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5441,7 +5441,7 @@ GameObject:
   - component: {fileID: 1889284826}
   - component: {fileID: 1889284825}
   m_Layer: 0
-  m_Name: imaasdcge (10)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5525,7 +5525,7 @@ GameObject:
   - component: {fileID: 1897341660}
   - component: {fileID: 1897341659}
   m_Layer: 0
-  m_Name: imaasdcge (20)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5609,7 +5609,7 @@ GameObject:
   - component: {fileID: 1902720598}
   - component: {fileID: 1902720597}
   m_Layer: 0
-  m_Name: imaasdcge (8)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5694,7 +5694,7 @@ GameObject:
   - component: {fileID: 1953151169}
   - component: {fileID: 1953151168}
   m_Layer: 0
-  m_Name: image (13)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5791,7 +5791,7 @@ GameObject:
   - component: {fileID: 1968113936}
   - component: {fileID: 1968113935}
   m_Layer: 0
-  m_Name: imaasdcge (18)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5875,7 +5875,7 @@ GameObject:
   - component: {fileID: 2001238878}
   - component: {fileID: 2001238877}
   m_Layer: 0
-  m_Name: imaasdcge (26)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5960,7 +5960,7 @@ GameObject:
   - component: {fileID: 2077379874}
   - component: {fileID: 2077379873}
   m_Layer: 0
-  m_Name: image (31)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6057,7 +6057,7 @@ GameObject:
   - component: {fileID: 2093924422}
   - component: {fileID: 2093924421}
   m_Layer: 0
-  m_Name: imaasdcge (5)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6141,7 +6141,7 @@ GameObject:
   - component: {fileID: 2116641067}
   - component: {fileID: 2116641066}
   m_Layer: 0
-  m_Name: imaasdcge (24)
+  m_Name: borders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
